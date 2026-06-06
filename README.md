@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**limichael97/limichael97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-focused Software Engineer with a background in Mechanical Engineering. Experienced building SaaS applications, collaborating with stakeholders, and turning business requirements into software solutions.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TypeScript • JavaScript • React • React Native • Expo • Node.js • Supabase • PostgreSQL
+
+## Featured Project
+
+### Togetli
+
+A React Native application for coordinating group trips through date polling, travel planning, and collaborative decision-making.
+
+**Tech:** React Native, Expo, TypeScript, Supabase, PostgreSQL
+
+## Experience
+
+- Software Engineer @ TrolMaster / ThinkGrow (2022–2026)
+- Frontend Engineer (Contract) @ Valley Pay (2022)
+- Mechanical Engineer @ Honeywell
+- B.S. Mechanical Engineering, UC Davis
